@@ -1,4 +1,4 @@
-module shutdown
+module github.com/olxbr/go-shutdown
 
 go 1.14
 

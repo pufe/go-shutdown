@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"github.com/go-redis/redis/v7"
 	_ "github.com/lib/pq"
+	"github.com/olxbr/go-shutdown"
 	"log"
 	"net/http"
-	"shutdown"
 	"sync"
 	"time"
 )
